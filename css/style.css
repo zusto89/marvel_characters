@@ -1,0 +1,62 @@
+body {
+	padding: 0;
+	margin: 0;
+	background-color: lightgrey;
+	width: 100%;
+}
+
+header {
+	background: #35424a;
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: 3px solid #e8491d;
+}
+
+#heading {
+	text-align: center;
+	font-family: Monospace;
+	font-size: 30px;
+
+}
+
+#container {
+	text-align: center;
+	padding-top: 100px;
+}
+
+
+#button {
+	background: coral;
+	padding: 16px 32px;
+	color: #fff;
+	border: 0;
+	border-radius: 5px;
+
+}
+
+
+#searchBox {
+	background: white;
+	padding: 16px 0 16px 16px;
+	width: 300px;
+}
+
+
+
+#results {
+	margin-top: 320px;
+	width:100%;
+	margin-bottom: 100px;
+}
+
+img {
+	height: 200px;
+}
+
+div {
+	text-align: center;
+	font-size: 12px;
+
+}
+
